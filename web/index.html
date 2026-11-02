@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fake Artist Game Master</title>
+  <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main>
+    <header class="hero">
+      <h1>Fake Artist</h1>
+      <p>Your game master for A Fake Artist Goes to New York. Everyone draws, and one of you is faking it.</p>
+    </header>
+
+    <p id="error" class="notice" role="alert" hidden></p>
+
+    <form id="create-form" class="card">
+      <h2>Start a game</h2>
+      <label for="create-name">Your name</label>
+      <input id="create-name" name="name" maxlength="20" autocomplete="nickname" required>
+      <button type="submit">Create game</button>
+    </form>
+
+    <form id="find-form" class="card">
+      <h2>Join a game</h2>
+      <label for="find-code">Game code</label>
+      <input id="find-code" name="code" maxlength="5" autocomplete="off" autocapitalize="characters" spellcheck="false" required>
+      <button type="submit" class="secondary">Find game</button>
+    </form>
+
+    <details class="card">
+      <summary>How it works</summary>
+      <ol>
+        <li>One person creates a game, and everyone else scans the QR code.</li>
+        <li>The site deals a category and a secret word. One player gets only the category.</li>
+        <li>Share one sheet of paper. Draw one mark each, clockwise, for two laps.</li>
+        <li>Vote out loud for the fake artist, then the host reveals the answer.</li>
+      </ol>
+    </details>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

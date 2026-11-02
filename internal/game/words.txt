@@ -1,0 +1,218 @@
+Animal,Elephant
+Animal,Giraffe
+Animal,Penguin
+Animal,Octopus
+Animal,Snail
+Animal,Rabbit
+Animal,Turtle
+Animal,Kangaroo
+Animal,Owl
+Animal,Crab
+Animal,Lion
+Animal,Horse
+Animal,Whale
+Animal,Bee
+Animal,Peacock
+Animal,Snake
+Animal,Frog
+Animal,Monkey
+Animal,Flamingo
+Animal,Shark
+Animal,Spider
+Animal,Pig
+Animal,Deer
+Food,Pizza
+Food,Banana
+Food,Hamburger
+Food,Ice cream
+Food,Tomato
+Food,Pineapple
+Food,Sushi
+Food,Doughnut
+Food,Carrot
+Food,Taco
+Food,Pretzel
+Food,Watermelon
+Food,Cupcake
+Food,Popcorn
+Food,Fried egg
+Food,Hot dog
+Food,Cherry
+Food,Mushroom
+Food,Corn
+Food,Sandwich
+Household,Umbrella
+Household,Toothbrush
+Household,Scissors
+Household,Lamp
+Household,Clock
+Household,Armchair
+Household,Bathtub
+Household,Candle
+Household,Hammer
+Household,Ladder
+Household,Teapot
+Household,Key
+Household,Mirror
+Household,Broom
+Household,Fork
+Household,Toilet
+Household,Vacuum cleaner
+Household,Pillow
+Household,Bucket
+Household,Fridge
+Clothing,Top hat
+Clothing,Sock
+Clothing,Boot
+Clothing,Necktie
+Clothing,Glasses
+Clothing,Sunglasses
+Clothing,Scarf
+Clothing,Crown
+Clothing,Glove
+Clothing,Belt
+Clothing,High heel
+Clothing,Backpack
+Clothing,Raincoat
+Clothing,Bow tie
+Clothing,Sandal
+Clothing,Baseball cap
+Clothing,Handbag
+Clothing,Wedding dress
+Clothing,Pajamas
+Clothing,Swimsuit
+Transport,Bicycle
+Transport,Helicopter
+Transport,Submarine
+Transport,Sailboat
+Transport,Train
+Transport,Hot air balloon
+Transport,Skateboard
+Transport,Fire truck
+Transport,Rocket
+Transport,Motorcycle
+Transport,Canoe
+Transport,Tractor
+Transport,Ambulance
+Transport,Airplane
+Transport,Bus
+Transport,Scooter
+Transport,Roller skates
+Transport,Taxi
+Transport,Cable car
+Transport,Wheelbarrow
+Places,Lighthouse
+Places,Castle
+Places,Pyramid
+Places,Igloo
+Places,Windmill
+Places,Treehouse
+Places,Volcano
+Places,Desert island
+Places,Bridge
+Places,Beach
+Places,Waterfall
+Places,Playground
+Places,Tent
+Places,Barn
+Places,Skyscraper
+Places,Church
+Places,Cave
+Places,Mountain
+Places,Farm
+Places,Circus
+Jobs,Firefighter
+Jobs,Pirate
+Jobs,Astronaut
+Jobs,Chef
+Jobs,Doctor
+Jobs,Police officer
+Jobs,Painter
+Jobs,Farmer
+Jobs,Teacher
+Jobs,Magician
+Jobs,Dentist
+Jobs,Mail carrier
+Jobs,Lifeguard
+Jobs,Clown
+Jobs,Ballet dancer
+Jobs,Photographer
+Jobs,Barber
+Jobs,Judge
+Jobs,Scientist
+Jobs,Referee
+Sports and games,Soccer ball
+Sports and games,Tennis racket
+Sports and games,Bowling
+Sports and games,Chess
+Sports and games,Surfing
+Sports and games,Skiing
+Sports and games,Basketball
+Sports and games,Golf
+Sports and games,Boxing
+Sports and games,Archery
+Sports and games,Dice
+Sports and games,Yo-yo
+Sports and games,Kite
+Sports and games,Jump rope
+Sports and games,Fishing
+Sports and games,Swimming
+Sports and games,Baseball bat
+Sports and games,Darts
+Sports and games,Hula hoop
+Sports and games,Ping pong
+Nature,Rainbow
+Nature,Tornado
+Nature,Sunflower
+Nature,Palm tree
+Nature,Snowman
+Nature,Cactus
+Nature,Lightning
+Nature,Moon
+Nature,Sun
+Nature,Cloud
+Nature,Rose
+Nature,Leaf
+Nature,Seashell
+Nature,Star
+Nature,Pine tree
+Nature,Iceberg
+Nature,Pumpkin
+Nature,Acorn
+Nature,River
+Nature,Comet
+Fantasy,Dragon
+Fantasy,Unicorn
+Fantasy,Mermaid
+Fantasy,Robot
+Fantasy,Ghost
+Fantasy,Vampire
+Fantasy,Wizard
+Fantasy,Alien
+Fantasy,Witch
+Fantasy,Zombie
+Fantasy,Fairy
+Fantasy,Treasure chest
+Fantasy,Superhero
+Fantasy,Mummy
+Fantasy,Genie
+Fantasy,Knight
+Fantasy,Dinosaur
+Fantasy,Flying carpet
+Fantasy,Santa Claus
+Fantasy,Yeti
+Music and art,Guitar
+Music and art,Piano
+Music and art,Drum
+Music and art,Trumpet
+Music and art,Violin
+Music and art,Microphone
+Music and art,Paintbrush
+Music and art,Easel
+Music and art,Headphones
+Music and art,Saxophone
+Music and art,Harp
+Music and art,Accordion
+Music and art,Camera
+Music and art,Theater mask
+Music and art,Statue

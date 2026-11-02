@@ -1,0 +1,12 @@
+.git/
+.claude/
+.specify/
+specs/
+Dockerfile*
+.dockerignore
+compose.yaml
+README.md
+CLAUDE.md
+*.log*
+.env*
+coverage/

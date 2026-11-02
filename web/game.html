@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fake Artist Game Master</title>
+  <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main>
+    <header class="bar">
+      <a href="/">Fake Artist</a>
+      <span id="game-code" class="code"></span>
+    </header>
+
+    <p id="notice" class="notice" role="status" hidden></p>
+
+    <section id="loading" class="card"><p>Loading game…</p></section>
+
+    <section id="message-screen" class="card" hidden>
+      <h2 id="message-title"></h2>
+      <p id="message-text"></p>
+      <a class="button" href="/">Back to home</a>
+    </section>
+
+    <form id="join-form" class="card" hidden>
+      <h2>Join this game</h2>
+      <label for="join-name">Your name</label>
+      <input id="join-name" name="name" maxlength="20" autocomplete="nickname" required>
+      <button type="submit">Join game</button>
+    </form>
+
+    <div id="game-screen" hidden>
+      <section id="lobby-panel" class="card" hidden>
+        <h2>Waiting for players</h2>
+        <p id="lobby-text"></p>
+      </section>
+
+      <section id="round-panel" class="card" hidden>
+        <div id="waiting-panel" hidden>
+          <h2>Round in progress</h2>
+          <p>You'll get a role in the next round.</p>
+        </div>
+        <div id="dealt-panel" hidden>
+          <p class="label">Category</p>
+          <p id="category" class="category"></p>
+          <div id="role" class="role" hidden>
+            <p id="role-label" class="label"></p>
+            <p id="role-text" class="word"></p>
+            <p id="role-hint"></p>
+          </div>
+          <button id="role-toggle" type="button" class="secondary"></button>
+          <p id="drawing-rules" class="rules"></p>
+        </div>
+      </section>
+
+      <section id="reveal-panel" class="card" hidden>
+        <h2>The answer</h2>
+        <p class="label">Fake artist</p>
+        <p id="reveal-fake" class="category"></p>
+        <p class="label">Word</p>
+        <p id="reveal-word" class="word"></p>
+      </section>
+
+      <section id="host-panel" class="card" hidden>
+        <button id="reveal-button" type="button" hidden>Reveal the answer</button>
+        <button id="deal-button" type="button"></button>
+        <p id="deal-hint" class="hint" hidden></p>
+      </section>
+
+      <button id="claim-button" type="button" hidden>The host has gone. Take over as host</button>
+
+      <details id="invite" class="card">
+        <summary>Invite players</summary>
+        <p id="address-warning" class="warning" hidden>Phones can't open this address. On this computer, open the site using its network address, such as http://192.168.1.5:8080, then create a new game.</p>
+        <img id="qr" alt="QR code to join this game" width="240" height="240">
+        <p>Scan the code, or enter <strong id="invite-code"></strong> on the home page.</p>
+        <p id="join-url" class="hint"></p>
+      </details>
+
+      <section class="card">
+        <h2 id="players-title">Players</h2>
+        <ul id="players" class="players"></ul>
+      </section>
+    </div>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

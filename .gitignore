@@ -1,0 +1,17 @@
+# Build output
+/server
+*.exe
+*.test
+*.out
+vendor/
+
+# Local configuration
+.env*
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
