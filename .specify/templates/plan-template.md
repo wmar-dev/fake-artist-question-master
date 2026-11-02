@@ -40,7 +40,14 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- [ ] **I. Well Tested**: Game rules are unit tested, each user story has an automated
+  acceptance test, and randomness and time are injectable
+- [ ] **II. Low Resource Usage**: Numeric budgets are stated under Constraints, each has a
+  verification method, idle states do no periodic work, and retained data is bounded
+- [ ] **III. Low Dependency**: Each new runtime dependency is justified, versions are pinned,
+  and any required third-party hosted service is justified
+- [ ] **IV. Easy to Use**: The spec has a measurable start-or-join criterion, no account is
+  required, and install, run, and test each take one documented command
 
 ## Project Structure
 
