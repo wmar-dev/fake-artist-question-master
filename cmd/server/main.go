@@ -1,4 +1,4 @@
-// Command server runs the Fake Artist game master website.
+// Command server runs the Fake Artist Question Master website.
 package main
 
 import (

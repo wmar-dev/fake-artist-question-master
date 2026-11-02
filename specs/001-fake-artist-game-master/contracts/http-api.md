@@ -1,4 +1,4 @@
-# HTTP Contract: Fake Artist Game Master
+# HTTP Contract: Fake Artist Question Master
 
 JSON bodies use `Content-Type: application/json`. Requests that act as a player are identified by the session cookie set when they join.
 

@@ -1,4 +1,4 @@
-# Feature Specification: Fake Artist Game Master
+# Feature Specification: Fake Artist Question Master
 
 **Feature Branch**: `001-fake-artist-game-master`
 
@@ -38,9 +38,9 @@ A host opens the website and creates a game. The site shows a QR code and a shor
 
 ### User Story 2 - Receive a secret role privately (Priority: P1)
 
-When the host deals a round, the site acts as the game master. It announces a category and the first player to draw to everyone, and privately shows each artist the secret word, except one randomly chosen player, who is told they are the fake artist. The group then draws on paper and votes aloud at the table.
+When the host deals a round, the site acts as the Question Master. It announces a category and the first player to draw to everyone, and privately shows each artist the secret word, except one randomly chosen player, who is told they are the fake artist. The group then draws on paper and votes aloud at the table.
 
-**Why this priority**: Dealing hidden information is the core job of a game master, and it is what the group cannot do for itself when nobody wants to sit out.
+**Why this priority**: Dealing hidden information is the core job of a Question Master, and it is what the group cannot do for itself when nobody wants to sit out.
 
 **Independent Test**: Deal a round with at least the minimum number of players and confirm that exactly one player sees the fake artist message, all others see the same word, and all see the same category and first player.
 

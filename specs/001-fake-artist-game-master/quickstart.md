@@ -1,4 +1,4 @@
-# Quickstart: Validate the Fake Artist Game Master
+# Quickstart: Validate the Fake Artist Question Master
 
 These steps prove the feature works once it is implemented. See [http-api.md](contracts/http-api.md) for the contract and [plan.md](plan.md) for the budgets.
 

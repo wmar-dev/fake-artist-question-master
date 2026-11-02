@@ -1,4 +1,4 @@
-# Specification Quality Checklist: Fake Artist Game Master
+# Specification Quality Checklist: Fake Artist Question Master
 
 **Purpose**: Validate specification completeness and quality before proceeding to planning
 **Created**: 2026-11-01

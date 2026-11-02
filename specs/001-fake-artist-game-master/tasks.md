@@ -1,9 +1,9 @@
 ---
 
-description: "Task list for implementing the Fake Artist Game Master"
+description: "Task list for implementing the Fake Artist Question Master"
 ---
 
-# Tasks: Fake Artist Game Master
+# Tasks: Fake Artist Question Master
 
 **Input**: Design documents from `/specs/001-fake-artist-game-master/`
 

@@ -1,6 +1,8 @@
-# Fake Artist Game Master
+# Fake Artist Question Master
 
-A phone-friendly game master for [A Fake Artist Goes to New York](https://oinkgames.com/en/games/analog/a-fake-artist-goes-to-new-york). One person creates a game, everyone else scans a QR code, and the site privately deals the category, the secret word, and the fake artist.
+A phone-friendly Question Master for [A Fake Artist Goes to New York](https://oinkgames.com/en/games/analog/a-fake-artist-goes-to-new-york). One person creates a game, everyone else scans a QR code, and the site privately deals the category, the secret word, and the fake artist.
+
+Because the site is the Question Master, everyone gets to play, and nobody has to sit out.
 
 Everyone draws on real paper and votes out loud. The site doesn't handle drawing, votes, or scores.
 

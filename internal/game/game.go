@@ -1,4 +1,4 @@
-// Package game holds the rules of the game master, with no HTTP or real clock.
+// Package game holds the rules of the Question Master, with no HTTP or real clock.
 package game
 
 import (

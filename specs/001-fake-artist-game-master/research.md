@@ -1,4 +1,4 @@
-# Research: Fake Artist Game Master
+# Research: Fake Artist Question Master
 
 All Technical Context items are resolved. Availability was checked on 2026-11-01: Go 1.27.3 is the current release, and `rsc.io/qr` v0.2.0 declares no dependencies.
 

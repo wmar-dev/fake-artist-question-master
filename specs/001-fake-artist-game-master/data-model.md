@@ -1,4 +1,4 @@
-# Data Model: Fake Artist Game Master
+# Data Model: Fake Artist Question Master
 
 All data is held in memory and removed when a game expires.
 

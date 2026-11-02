@@ -1,4 +1,4 @@
-# Implementation Plan: Fake Artist Game Master
+# Implementation Plan: Fake Artist Question Master
 
 **Branch**: `001-fake-artist-game-master` | **Date**: 2026-11-01 | **Spec**: [spec.md](spec.md)
 
