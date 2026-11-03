@@ -30,7 +30,7 @@ If your computer's firewall asks, allow incoming connections on port 8080.
 
 ## Deploy to the cloud
 
-Build the image with `docker build -t fake-artist .`, then push it to any platform that runs containers. The same image runs locally and in the cloud.
+Build the image with `docker build -t fake-artist .`, then push it to any platform that runs containers. The same image runs locally and in the cloud. The image is about 9 MB.
 
 Your platform must:
 
